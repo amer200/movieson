@@ -1,0 +1,19 @@
+.header {
+    height: 155px;
+    background: #19282F;
+    height: 100px;
+}
+
+.header img {
+    height: 172px;
+}
+
+.head_top {
+    background: none;
+    height: 100px;
+    margin-bottom: 10px;
+
+}
+main{
+    padding-bottom: 20px;
+}

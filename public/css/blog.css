@@ -1,0 +1,10 @@
+.blog{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.blog .lead{
+    text-align: right;
+}
+.comments{
+    padding-bottom: 50px;
+}
